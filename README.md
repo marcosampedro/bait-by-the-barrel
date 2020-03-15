@@ -14,7 +14,7 @@ When you visit your store, you can either Load Sample Fishes or enter your own f
 
 As you add the fishes to your cart, they'll be added to the Order menu and be saved in your localstorage. So even if you refresh your page or enter your store name again in your browser, all your fishes and orders will be saved as you last left it
 
-You can also feel free to add more fishes in your Inventory, and update the data of your fishes. All instances of your fishes data will be automatically updated through the state
+You can also feel free to add more fishes in your Inventory, and update the data of your fishes. All instances of your fishes data will be automatically updated through the state, and saved on the Firebase Database
 
 ## License
 The MIT License (MIT)
