@@ -2,8 +2,6 @@
 A website created using React and Firebase for a made up seafood market where the price, quantity and availability can be updated in a moment's notice
 
 ## Usage
-(http://baitbythebarrel.now.sh/)
-
 Open the project in an IDE of your choice (Visual Studio Code was used to construct this)
 
 Install the npm dependencies from the package.json file
