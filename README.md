@@ -1,5 +1,5 @@
 # bait-by-the-barrel
-A website created using React and Firebase for a made up seafood fishing/supplying company called, Bait by the Barrel
+A website created using React and Firebase for a made up seafood market where the price, quantity and availability can be updated in a moment's notice
 
 ## Usage
 (http://baitbythebarrel.now.sh/)
