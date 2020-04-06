@@ -2,6 +2,8 @@
 A website created using React and Firebase for a made up seafood fishing/supplying company called, Bait by the Barrel
 
 ## Usage
+(http://baitbythebarrel.now.sh/)
+
 Open the project in an IDE of your choice (Visual Studio Code was used to construct this)
 
 Install the npm dependencies from the package.json file
